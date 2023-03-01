@@ -1,9 +1,0 @@
-<template>
-    <div>
-        <ul>
-            <li>Teste1</li>
-            <li>Teste2</li>
-            <li>Teste3</li>
-        </ul>
-    </div>
-</template>
